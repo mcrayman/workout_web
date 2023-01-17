@@ -1,0 +1,27 @@
+.header {
+    color: rgb(236, 212, 77);
+    background-color: black;
+    font-size: 100px;
+    text-align: center;
+    padding: auto;
+    border-color: black;
+}
+
+.intro {
+    font-size: 40px;
+    text-align: center;
+}
+
+.subjects {
+    color: black;
+
+}
+
+#info,
+#introP {
+    word-spacing: 2px;
+    line-height: 2pc;
+    font-size: larger;
+    text-indent: .5in;
+}
+
